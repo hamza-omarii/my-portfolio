@@ -9,7 +9,7 @@ const TitleStyle = styled.div`
   margin-left: auto;
   margin-right: auto;
   padding: 0 5px;
-  background: #177fff;
+  background-color: ${({ theme }) => theme.colors.primary_blue};
   font-size: 3.5rem;
   font-weight: bold;
   color: #020c1a;

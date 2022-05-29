@@ -14,7 +14,7 @@ import {
 import { Fade, Zoom } from "react-awesome-reveal";
 
 import Container from "../../components/Container";
-import img from "../../images/pro-modified.png";
+import img from "../../images/so.jpg";
 
 const Home = () => {
   return (

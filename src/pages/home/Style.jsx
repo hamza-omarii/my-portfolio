@@ -61,7 +61,7 @@ export const Img = styled.img`
   height: 450px;
   border-radius: 50%;
   background-color: ${({ theme }) => theme.colors.primary_blue};
-
+  margin-top: 20px;
   @media (max-width: 768px) {
     width: 320px;
     height: 320px;

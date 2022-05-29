@@ -105,4 +105,6 @@ export const Footer = styled.footer`
 export const End = styled.div`
   text-align: center;
   font-weight: lighter;
+  margin-top: 10px;
+  margin-bottom: 10px;
 `;

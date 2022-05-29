@@ -31,6 +31,9 @@ export const Name = styled.h3`
   border-radius: 10px;
   text-transform: capitalize;
   border-bottom: 2px solid ${({ theme }) => theme.colors.primary_blue};
+  @media (max-width: 768px) {
+    font-size: ${({ theme }) => theme.font_size.sm};
+  }
 `;
 
 export const Tabs = styled.div`

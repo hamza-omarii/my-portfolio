@@ -33,7 +33,7 @@ const projects = [
       <SiMysql size={40} />,
     ],
     name: "sehity jo",
-    link_demo: "http://sihetyjo.ga",
+    link_demo: "https://sehityjo.000webhostapp.com/en",
     link_code: "https://github.com/hamza-omarii/SehityJO",
     image: sehity,
   },
